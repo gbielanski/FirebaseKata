@@ -7,3 +7,4 @@
 6. Add List View to design
 7. Init butterknife and firebase
 8. Create connection to firebase
+9. set Array Adapter for List View
