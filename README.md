@@ -4,3 +4,4 @@
 3. Add butterknife
 4. Fix firebase compilation issue
 5. Fix render problem
+6. Add List View to design
